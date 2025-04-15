@@ -11,7 +11,7 @@ setup(
     description="A human-friendly library for building and manipulating URLs",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Madhav1716/urlcrafter",
+    url="https://github.com/Madhav1716/URLCrafter",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
