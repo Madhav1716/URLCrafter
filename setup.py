@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="urlcrafter",
-    version="0.1.4",
+    version="0.1.5",
     author="Madhav Panchal",
     author_email="madhavpanchal1716@gmail.com",
     description="🎯 Your friendly URL wizard - Craft, manipulate, and manage URLs with style!",
