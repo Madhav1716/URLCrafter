@@ -1,7 +1,7 @@
 # 🎯 URLCrafter
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Madhav1716/URLCrafter/main/assets/logo.png" alt="URLCrafter Logo" width="200"/>
+  <img src="assets/logo.png" alt="URLCrafter Logo" width="200"/>
   
   [![PyPI version](https://badge.fury.io/py/urlcrafter.svg)](https://badge.fury.io/py/urlcrafter)
   [![Python Versions](https://img.shields.io/pypi/pyversions/urlcrafter.svg)](https://pypi.org/project/urlcrafter/)
